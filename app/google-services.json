@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324419934281",
+    "firebase_url": "https://networkguru-a8fe0.firebaseio.com",
+    "project_id": "networkguru-a8fe0",
+    "storage_bucket": "networkguru-a8fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324419934281:android:16aa7242f19ce73f",
+        "android_client_info": {
+          "package_name": "com.example.networking_guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324419934281-j7gnbqau9etf02edu0scaa3gktntb124.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.networking_guru",
+            "certificate_hash": "0ea03762690832378e9303567720e4f313615a01"
+          }
+        },
+        {
+          "client_id": "324419934281-nkra2evg978bqu49inoqnkm17fq3tshi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKKx8JabrJxOV0Ukmnw4ovx3hMMgZlnXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324419934281-nkra2evg978bqu49inoqnkm17fq3tshi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

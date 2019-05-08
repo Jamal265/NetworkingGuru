@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Networking_Guru</string>
+    <string name="Paragraph">
+        Networking Guru is an application designed to help
+        all those students that are bout to go and sit for
+        Cisco Certified Network Associate Exam.\n
+
+        \n
+        And also those that would like to test their knowledge
+        when it comes to Networking.\n
+
+        \n
+        Networking Guru is designed to act as a Learning buddy
+        as well as reminder of some of the parts that need revisiting
+        before taking the CCNA Exam.\n
+
+        \n
+        Networking Guru is a simple and straigh forward application
+        to use. \n
+    </string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+
+    <string name="settings_menu_item">Settings</string>
+</resources>
